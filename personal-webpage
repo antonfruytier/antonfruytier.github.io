@@ -1,0 +1,47 @@
+<html>
+
+    <head>
+
+        <title>Anton Fruytier</title>
+
+    </head>
+
+    <body>
+
+        <h1>Welcome to my personal web page!</h1>
+
+        <img src="Anton.png" width="300">
+
+
+        <h2><ins>Profile</ins></h2>
+
+        <p>Honesty, trust and respect are building blocks on which my personality is founded. Self-development regarding my personality and people skills, are a passion as well as a continuously evolving goal. Among my strengths are creative problem solving and solution thinking. To me it is of great importance to have a positive impact on my surrounding and beyond.</p>
+        
+       
+        
+        <hr>
+        
+        <h2><ins>Contact me</ins></h2>
+
+        <ul>
+
+        <li>Skype: any3101996</li>
+        <li><a href="https://www.linkedin.com/in/antonfruytier/">LinkedIn</a></li>
+        <li>antonfruytier@gmail.com</li>
+
+        </ul>
+
+
+        <hr>
+
+
+        <h2><ins>My hobbies</ins></h2>
+
+        <img src="Moog.jpeg" width="300"> 
+        <img src="duolingo.png" width="300">
+        <img src="gym.jpg" width="300">
+        <img src="Web-Development.jpg" width="300">
+
+    </body>
+
+</html>
